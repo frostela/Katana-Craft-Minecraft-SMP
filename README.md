@@ -1,9 +1,9 @@
 # Katana-Craft-Minecraft-SMP
-Personal Minecraft SMP on Paper 1.21.8 with plugins, datapacks, and a private Discord chat sync bot.
+Personal Minecraft SMP on Paper 26.1.2 with plugins, datapacks, and a private Discord chat sync bot.
 
 **IP (Java):** `kc.frostela.com`  
 **Bedrock Port:** `19132`  
-**Version:** 1.21.5 (Paper + Plugins + Datapacks)
+**Version:** 26.1.2 (Paper + Plugins + Datapacks)
 
 Katana Craft is a Minecraft SMP hosted on **Oracle Free Tier VM**, running on a
 Pterodactyl game panel and managed over SSH using PuTTY.  
